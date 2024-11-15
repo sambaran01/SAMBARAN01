@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SAMBARAN01
+- 👋 Hi, I’m @sambaran01
 - 👀 I’m interested in Learning new things
 - 🌱 I’m currently learning Python
 - 💞️ I’m open for any type of any collaboration
