@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SAMBARAN01
 - 👀 I’m interested in Learning new things
 - 🌱 I’m currently learning Python
-- 💞️ I’m not looking to collaborate rn
-- 📫 No need to reach me
+- 💞️ I’m open for any type of any collaboration
 - 😄 Pronouns: He/him
 
 
