@@ -1,4 +1,4 @@
-#  Hey, I'm Sniper
+#  Hey, I'm Sambaran
 
  Cloud | ML/DL | DevOps | Automation  
  Building scalable systems & AI-powered solutions  
