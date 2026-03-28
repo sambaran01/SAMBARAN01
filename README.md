@@ -1,88 +1,67 @@
-#  Hey, I'm Sambaran
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Sambaran%20Das&fontAlign=80&fontAlignY=40&color=gradient)
 
- Cloud | ML/DL | DevOps | Automation  
- Building scalable systems & AI-powered solutions  
- Focused on production-ready engineering, not just tutorials  
-
----
-
-##  About Me
-
-I'm a builder who works at the intersection of:
-
--  Cloud Computing
--  Machine Learning & Deep Learning
--  DevOps & Automation
--  Scalable System Design
-
-I care about real-world deployments, performance optimization, and cost-efficient cloud architectures.
-
-Currently diving deeper into:
-- Production ML systems
-- Cloud-native infrastructure
-- Containerized deployments
-- CI/CD for ML workloads
-- GPU + Cloud optimization strategies
+## Developer / Platforms
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
 ---
 
-##  Tech Stack
-
-###  Languages
-- Python
-- SQL
-- Go (exploring)
-- Bash
-
-###  Cloud Platforms
-- AWS
-- Azure
-- DigitalOcean
-
-###  ML / AI
-- NumPy
-- Pandas
-- Scikit-learn
-- PyTorch
-- TensorFlow
-- Model Deployment & Inference APIs
-
-###  DevOps & Infrastructure
-- Docker
-- Kubernetes
-- GitHub Actions
-- Jenkins
-- Linux
-
-###  Databases
-- PostgreSQL
-- MongoDB
-- Cloud-managed databases
+## CI / DevOps
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-##  Current Focus
-
--  Building production-level ML systems
--  Offloading heavy workloads to cloud GPUs
--  Automating infrastructure
--  Designing scalable database systems
--  Exploring monetizable tech skills with zero capital investment
+## Programming Languages
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-##  Engineering Philosophy
-
-- Clean architecture
-- Performance-first mindset
-- Cloud cost awareness
-- Automation over repetition
-- Build → Deploy → Scale
+## Data / Machine Learning
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
-##  Connect With Me
+## Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 
--  LinkedIn: https://www.linkedin.com/in/sambarandas12345/
--  X (Twitter): https://x.com/sambaran99
--  Open to collaboration in Cloud, ML & DevOps
+---
+
+## Selected Projects
+
+### MatsyaSathi  
+https://github.com/sambaran01/MatsyaSathi  
+
+### EmisAI  
+https://github.com/sambaran01/EmisAI  
+
+---
+
+## Focus Area
+
+- Machine Learning Systems
+- Model Deployment
+- Backend Engineering (Go)
+- Cloud Infrastructure (AWS)
+- Building production-ready pipelines
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sambaran01&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sambaran01&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sambaran01&theme=radical)
+
+---
+
+![Metrics](/github-metrics.svg)
