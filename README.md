@@ -60,8 +60,6 @@ https://github.com/sambaran01/EmisAI
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sambaran01&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sambaran01&theme=radical)
-
 ---
 
-![Metrics](/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/sambaran01/SAMBARAN01/main/github-metrics.svg)
